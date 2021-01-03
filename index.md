@@ -42,13 +42,13 @@ When a data file is red without error, the *Text editor window* shows the text c
 
 pyDataVis requires Python 3, PyQt5, Numpy, Pandas, Scipy and Matplotlib. The easiest way to install everything is to use Open Source [Anaconda](https://www.anaconda.com/products/individual) that will "just work" out of the box for Windows, macOS and common Linux platforms.
 
-Then open a Terminal and change the current working directory to the location where you want to copy the pyDataVis folder, for example ~/programs:
+Then open a Terminal and change the current working directory to the location where you want to copy the pyDataVis folder, for example ~/myprog:
 ```
-cd ~/program
+cd ~/myprog
 ```
 Then type:
 ```
-git clone https://github.com/PierreAlphonse/pyDataVis.git
+git clone https://github.com/pyDataVis/pyDataVis.git
 ```
 
 
@@ -56,7 +56,7 @@ git clone https://github.com/PierreAlphonse/pyDataVis.git
 
 Change the current working directory to the pyDataVis folder:
 ```
-cd ~/programs/pyDataVis
+cd ~/myprog/pyDataVis
 ```
 and execute the pyDataVis.py script:
 ```
