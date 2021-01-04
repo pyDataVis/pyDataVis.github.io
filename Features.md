@@ -4,7 +4,7 @@
   - Reading and automatic plotting of CSV and tabular text files 
   - Importing data from spreadsheet
   - Reading spectra in JCAMP-DX format
-  - Exporting data to CSV or to spreasheet
+  - Exporting data to CSV or to spreadsheet
   - Exporting to [Veusz](https://veusz.github.io/)
 
 - Conversion:
