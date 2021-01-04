@@ -4,6 +4,7 @@
   - Reading and automatic plotting of CSV and tabular text files 
   - Importing data from spreadsheet
   - Reading spectra in JCAMP-DX format
+  - Reading Raman data file from the [RRUFF](https://rruff.info/) database.
   - Exporting data to CSV or to spreadsheet
   - Exporting to [Veusz](https://veusz.github.io/)
 
