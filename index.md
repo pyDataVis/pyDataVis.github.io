@@ -3,5 +3,5 @@
 *pyDataVis* is an open source software written in [Python](https://en.wikipedia.org/wiki/Python_(programming_language)). It uses [PyQt](https://riverbankcomputing.com/software/pyqt/) as graphic user interface (GUI) and [Matplotlib](https://matplotlib.org/) for plotting.
 
 - [User Guide](pyDataVis.html)
-- Features
-- Examples
+- [Features](Features.md)
+- Screenshots
