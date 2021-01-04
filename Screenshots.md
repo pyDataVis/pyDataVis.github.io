@@ -10,6 +10,6 @@
   <tr>
     <td> <img src="img/SigmoidFitting.png" title="Curve Fitting Tool" width = 360px> </td>
 
-    <td> <img src="img/peakFit3.png" alt="Peak Fitting Tool" width = 360px> </td>
+    <td> <img src="img/peakFit3.png" title="Peak Fitting Tool" width = 360px> </td>
   </tr> 
 </table>
