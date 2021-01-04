@@ -4,4 +4,4 @@
 
 - [User Guide](pyDataVis.html)
 - [Features](Features.md)
-- Screenshots
+- [Screenshots](Screenshots.md)
