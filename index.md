@@ -7,4 +7,4 @@ There are many [free plotting sofware](https://en.wikipedia.org/wiki/Category:Fr
 - [Screenshots](Screenshots.html)
 - [Downloads](Downloads.html)
 
-![A pyDataVis window](img/plotCmd.png){width=600px}
+<img src="img/plotCmd.png" width="542" height="685" />
